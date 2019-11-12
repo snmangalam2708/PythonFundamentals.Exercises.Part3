@@ -37,6 +37,8 @@ The program must meet the following criteria.
     * The user's guess.
     * An indication if the user guess correctly or if the user's guess was too high/too low.
 
+![higher_or_lower_demo](higher_or_lower_demo.gif)
+
 ## Exercise 3 
 
 Copy the *greet.py* program from part 2 and name it *multilingual_greeter.py*
